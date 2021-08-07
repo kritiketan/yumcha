@@ -1,0 +1,28 @@
+{
+  "name": "yumcha",
+  "version": "1.0.0",
+  "description": "Take a break",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kritiketan/yumcha.git"
+  },
+  "author": "Kittu",
+  "Keywords": [
+    "yumcha"
+  ],
+  "license": "MIT",
+  "bin": {
+    "yumcha": "./src/bin/yumcha.js"
+  },
+  "bugs": {
+    "url": "https://github.com/kritiketan/yumcha/issues"
+  },
+  "homepage": "https://github.com/kritiketan/yumcha#readme",
+  "dependencies": {
+    "terminal-link": "^3.0.0"
+  }
+}
