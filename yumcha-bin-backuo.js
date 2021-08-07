@@ -1,8 +1,6 @@
 #!/usr/bin/env node
 'use strict'
-
-const generator = require('../generator').getUrl;
-
+const sip = require('./util').getUrl;
 
 function usage() {
   let welcomeMessage = 
@@ -26,6 +24,6 @@ if (args.indexOf('--help') >= 0) {
   usage();
   process.exit(0);
 }else{
-  console.log(generator())
+  console.log(sip())
 }
 
