@@ -3,10 +3,9 @@
 </h1>
 <h2 align="center">One useless website at a time</h2>
 
-<h4 align="center">The following module was developed as part of this [tutorial blog](https://kritiketan.co). <h4 align="center">
-
 <hr>
 
+The following module was developed as part of this [tutorial blog](https://kritiketan.co). Each call to the module responds with one useless website for you to browse.
 ## Installation Instructions
 
 
