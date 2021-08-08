@@ -35,7 +35,7 @@ console.log(yumcha.sip())
 Example:
 
 ```console
-$ uuid
+$ yumcha
 // https://trypap.com/
 ```
 
