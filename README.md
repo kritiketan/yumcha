@@ -3,12 +3,12 @@
 </h1>
 <h2 align="center">One useless website at a time</h2>
 
-The following module was developed as part of this [tutorial blog](https://kritiketan.co). 
+<h4 align="center">The following module was developed as part of this [tutorial blog](https://kritiketan.co). <h4 align="center">
 
 <hr>
 
 ## Installation Instructions
-<hr>
+
 
 This is a [Node.js](https://nodejs.org/en/download/) module available through the npm registry.
 
