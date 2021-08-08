@@ -50,5 +50,26 @@ Yumcha is a chinese tradition involving tea and snacks (usually dimsum).
   So here are some of the most useless websites for your coffee (Productivity) breaks
 
 
+### Suggested folder structure
+
+The folder structure and functionality of the package has been kept to a minimum
+for a quick start up. A better folder structure would be as follows:
+
+```console
+
+Yumcha
+    +bin
+        - yumcha-bin.js
+    +src
+        - index.js
+        - util.js
+        - *any other files to extend the functionality*
+        + data
+            - site-list.js
+            - *Other DB/API connections*
+        
+
+```
+
 
 
