@@ -1,7 +1,7 @@
 {
   "name": "yumcha",
-  "version": "1.0.0",
-  "description": "Take a break",
+  "version": "1.0.2",
+  "description": "One useless website at a time",
   "main": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,7 @@
   },
   "author": "Kittu",
   "Keywords": [
-    "yumcha"
+    "yumcha","useless websites","break"
   ],
   "license": "MIT",
   "bin": "./yumcha-bin.js",
