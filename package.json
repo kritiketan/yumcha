@@ -1,10 +1,10 @@
 {
   "name": "yumcha",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "One useless website at a time",
   "main": "./index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --watchAll --verbose"
   },
   "repository": {
     "type": "git",
@@ -12,7 +12,9 @@
   },
   "author": "Kittu",
   "Keywords": [
-    "yumcha","useless websites","break"
+    "yumcha",
+    "useless websites",
+    "break"
   ],
   "license": "MIT",
   "bin": "./yumcha-bin.js",
@@ -21,6 +23,10 @@
   },
   "homepage": "https://github.com/kritiketan/yumcha#readme",
   "dependencies": {
+    "jest": "^27.0.6",
     "terminal-link": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.24"
   }
 }
