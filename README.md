@@ -3,8 +3,6 @@
 </h1>
 <h2 align="center">One useless website at a time</h2>
 
-<hr>
-
 The following module was developed as part of this [tutorial blog](https://kritiketan.co). Each call to the module responds with one useless website for you to browse.
 ## Installation Instructions
 
@@ -68,7 +66,6 @@ Yumcha
             - site-list.js
             - *Other DB/API connections*
         
-
 ```
 
 

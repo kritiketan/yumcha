@@ -1,6 +1,6 @@
 {
   "name": "yumcha",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "One useless website at a time",
   "main": "./index.js",
   "scripts": {
