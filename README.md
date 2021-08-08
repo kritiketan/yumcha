@@ -1,5 +1,5 @@
 <h1 align="center">
-    <br>Yumcha<br>
+    <br>Yumcha ☕️ 💻<br>
 </h1>
 <h2 align="center">One useless website at a time</h2>
 
